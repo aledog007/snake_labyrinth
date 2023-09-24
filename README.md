@@ -1,5 +1,5 @@
 # snake_labyrinth
-A littel fun Java game for thr terminal 
+A littel fun Java game for the terminal 
 
 Game Description:
 The Java program is a simple console game developed entirely in Java. It is a text-based Snake game where the user enters their name, plays the game, and receives different outputs depending on the outcome of the game. The game consists of a game board with a player, a snake, gold, and a door. The objective of the game is to collect the gold and then reach the door without being bitten by the snake.
