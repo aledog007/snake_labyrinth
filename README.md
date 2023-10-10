@@ -1,4 +1,4 @@
-# snake_labyrinth
+# snake_maze
 A littel fun Java game for the terminal 
 
 Game Description:
